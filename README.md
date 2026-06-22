@@ -21,7 +21,7 @@ ArXiv pre-print: [https://doi.org/10.48550/arXiv.2605.28594](https://doi.org/10.
 
 This file contains the data for the various benchmark curves of sections 4.1, 4.2, and 4.3. 
 
-The PULSE estimates are given by 'lnZ', which is lnZ divided by the system size. 
+The PULSE estimates are given by 'lnZ', corresponding to $ln(Z)/N$, where $N$ x $N$ is the Ising system size. 
 
 ---
 
