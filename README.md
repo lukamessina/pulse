@@ -1,14 +1,17 @@
 # PULSE — Results Data
 
-This repository contains results data associated with publications from the PULSE ("Partition function Unsupervised Learning Sampling and Evaluation") project developed at IRESNE, CEA Cadarache.
+This repository contains results data associated with publications from the PULSE ("Partition function Unsupervised Learning Sampling and Evaluation") code developed at IRESNE, CEA Cadarache.
 
 Data are stored here prior to submission to a permanent repository with a citable DOI. Once a dataset has been deposited and a DOI assigned, this README will be updated accordingly.
 
-The PULSE code can be made available upon request. 
+The PULSE code can be made available upon request.
+
+PULSE references:
+- [ M. J. Karcz, L. Messina, E. Kawasaki, and E. Bourasseau, *AI-driven data-efficient estimation of partition functions in disordered materials*, Sci Rep 16, 14568 (2026)](https://www.nature.com/articles/s41598-026-37953-6).
 
 ---
 
-## Contents
+## Repository contents
 
 ### *thermodynamic_properties_Ising.tar*
 
